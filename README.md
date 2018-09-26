@@ -1,0 +1,26 @@
+# dewali
+<html>
+<title>Happy Dewali</title>
+<body background="1.gif">
+<center><span style="color: #ff077a;">▁ ▂ ▄ ▅ ▆ ▇दीपावली की शुभकामनाएं▇ ▆ ▅ ▄ ▂ ▁</center>
+<center style="color:white;font-size:30px">
+
+  	 
+
+<h3>Wishing You</h3>
+<h2>दीपावली की शुभकामनाएं</h2>
+<img src="3.gif"width="300"height="300">
+
+<p aling="center" style="background-color: #FFFFFF; font-size: 15px;color:#ff0000;"><b>
+May the divine light of Diwali bring into your life peace, prosperity, happiness and good health.<br><strong>Happy Diwali</strong><br></b></p>
+<p aling="center" style=" background-color: #000000; font-size: 15px;color:#ffffff;"><b>
+दीप जलते रहे मन से मन मिलते रहे
+गिले सिकवे सारे मन से निकलते रहे
+सारे विश्व मे सुख-शांति की प्रभात ले आये
+ये दीपो का त्योहार खुशी की सोंगात ले आये<br><strong>Happy Diwali</strong><br></b></p>
+<img src="4.gif"width="300"height="300"><br>
+<img src="2.gif"width="300"height="300"></center>
+
+
+</body>
+</html>
